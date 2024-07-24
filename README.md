@@ -106,12 +106,3 @@ The database schema is normalized and includes the following main collections:
 - `/api/projects` - Project management routes
 - `/api/reports` - Reporting and analytics routes
 
-(Detailed API documentation to be added)
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
